@@ -4093,13 +4093,6 @@ body.admin-bar .widget_eu_cookie_law_widget.widget.top {
 }
 
 /**
- * Related Posts
- */
-.entry-content #jp-relatedposts {
-	margin: 0 auto;
-}
-
-/**
  * Map Block
  */
 .mapboxgl-popup-close-button {
@@ -4108,6 +4101,13 @@ body.admin-bar .widget_eu_cookie_law_widget.widget.top {
 
 .wp-block-jetpack-map .mapboxgl-popup h3 {
 	padding-top: 15px;
+}
+
+/**
+ * Related Posts
+ */
+.entry-content #jp-relatedposts {
+	margin: 0 auto;
 }
 
 /**
