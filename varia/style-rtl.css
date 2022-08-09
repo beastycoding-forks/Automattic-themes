@@ -3984,8 +3984,19 @@ body.admin-bar .widget_eu_cookie_law_widget.widget.top {
 /**
  * Related Posts
  */
-.entry-content #jp-relatedposts {
+ .entry-content #jp-relatedposts {
 	margin: 0 auto;
+}
+
+/**
+ * Map Block
+ */
+.mapboxgl-popup-close-button {
+	padding: 6px;
+}
+
+.wp-block-jetpack-map .mapboxgl-popup h3 {
+	padding-top: 15px;
 }
 
 /**
